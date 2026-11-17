@@ -1,0 +1,242 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Dunamis, Dunamis.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1541957300435165214",
+    "type": "GuildPublicThread",
+    "categoryId": "1541872873075908638",
+    "category": "city-archive",
+    "name": "Dunamis, Dunamis",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:01:15.2585152+04:00",
+  "messages": [
+    {
+      "id": "1541957300435165214",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:47:48.605+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Images from the capital of Dunamis, Dunamis",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Dunamis, Dunamis.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541957377866211460",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:48:07.066+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "26th August, 2026",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Dunamis, Dunamis.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541957377077805086",
+          "url": "Dunamis, Dunamis.json_Files\\image-25f727b27a6ba3a2.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1023627
+        },
+        {
+          "id": "1541957377501298849",
+          "url": "Dunamis, Dunamis.json_Files\\image-ef4f2ce93ef048fa.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 927101
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541966798965055581",
+      "type": "Default",
+      "timestamp": "2026-08-26T04:25:33.231+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Dunamis, Dunamis.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541966798574854195",
+          "url": "Dunamis, Dunamis.json_Files\\image-ddfaf2bd89302a2b.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1435238
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "Dunamis, Dunamis.json_Files\\2705-0589f8172d831566.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1190351876819009602",
+              "name": "bugsy_frfr",
+              "discriminator": "0000",
+              "nickname": "Bugsy",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "Dunamis, Dunamis.json_Files\\59b3e104774d25d2b11726f43eb7e308-3a780f3feb6a79ce.png"
+            },
+            {
+              "id": "1516277315812720716",
+              "name": "saddamlandian",
+              "discriminator": "0000",
+              "nickname": "will be deleted soon",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "Dunamis, Dunamis.json_Files\\0c5665a33819e6c54bc83b934700027a-f8e6311e878e25d9.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

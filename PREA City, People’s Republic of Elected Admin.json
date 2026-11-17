@@ -1,0 +1,418 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "PREA City, People’s Republic of Elected Admin.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1541956737588920490",
+    "type": "GuildPublicThread",
+    "categoryId": "1541872873075908638",
+    "category": "city-archive",
+    "name": "PREA City, People’s Republic of Elected Admin",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:02:14.6500006+04:00",
+  "messages": [
+    {
+      "id": "1541956737588920490",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:45:34.412+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "PREA City, PREA",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "PREA City, People’s Republic of Elected Admin.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541958012237779036",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:50:38.312+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "PREA City, People’s Republic of Elected Admin.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541958007523377258",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-e98eedf3fb5e2af8.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 202241
+        },
+        {
+          "id": "1541958007959846922",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-1eb721bef534885a.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 661762
+        },
+        {
+          "id": "1541958008345591899",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-272305fe9575f944.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 18141
+        },
+        {
+          "id": "1541958009494966342",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-53a51e8bae848d05.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 421429
+        },
+        {
+          "id": "1541958010027647057",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-1eb1415be1668fa3.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 195158
+        },
+        {
+          "id": "1541958010492948611",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-6db2360eeeefae35.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 626015
+        },
+        {
+          "id": "1541958010837008434",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-d66bad82e1d80eb5.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 105861
+        },
+        {
+          "id": "1541958011210170409",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-cf4fb322a38d5771.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 95033
+        },
+        {
+          "id": "1541958011629862942",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-0091772ca4716728.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 223867
+        },
+        {
+          "id": "1541958012078526474",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-c924b0a3d3184e26.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1370627
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541958213862166621",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:51:26.383+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "PREA City, People’s Republic of Elected Admin.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541958208166436936",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-485f31cba19dac0e.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1981521
+        },
+        {
+          "id": "1541958209265205428",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-91cce1d6316a59a2.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 323133
+        },
+        {
+          "id": "1541958209659478156",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-0990150b20d628a2.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 167717
+        },
+        {
+          "id": "1541958210112585851",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-c9a3798d095c9b57.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 278042
+        },
+        {
+          "id": "1541958210770960474",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-b2266b38bc298def.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 241098
+        },
+        {
+          "id": "1541958211303645275",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-57a9cba0826b87bc.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 521952
+        },
+        {
+          "id": "1541958211760947301",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-c982eb318a288dae.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 249958
+        },
+        {
+          "id": "1541958212297949194",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-db39e73d295af3b8.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 163559
+        },
+        {
+          "id": "1541958212817920001",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-7d1aacab828998bd.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 383651
+        },
+        {
+          "id": "1541958213421895720",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-5b079138d93b7706.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 137692
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541958340744183839",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:51:56.634+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "PREA City, People’s Republic of Elected Admin.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541958337472757870",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\Screenshot_2024-11-29_224119-042e90adbb6ec5fd.png",
+          "fileName": "Screenshot_2024-11-29_224119.png",
+          "fileSizeBytes": 1414682
+        },
+        {
+          "id": "1541958337783140453",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\Screenshot_2024-11-03_185717-e8495d59f0d35e62.png",
+          "fileName": "Screenshot_2024-11-03_185717.png",
+          "fileSizeBytes": 524909
+        },
+        {
+          "id": "1541958338101776434",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-dd3f6e0a8298db5f.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 160262
+        },
+        {
+          "id": "1541958338529468496",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-1503afc1772530cb.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1974584
+        },
+        {
+          "id": "1541958338911141919",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-eaa10a6ba79d51e2.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1437615
+        },
+        {
+          "id": "1541958339334901770",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-2c152a9a44375ca4.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1358738
+        },
+        {
+          "id": "1541958339745808395",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-0911f0bdf8917ea1.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 634264
+        },
+        {
+          "id": "1541958340312301588",
+          "url": "PREA City, People’s Republic of Elected Admin.json_Files\\image-f19349f204f1fbfe.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1983853
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

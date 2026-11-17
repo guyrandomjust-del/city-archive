@@ -1,0 +1,235 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "New Espon, Electan State (Loco).json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1541956266329509968",
+    "type": "GuildPublicThread",
+    "categoryId": "1541872873075908638",
+    "category": "city-archive",
+    "name": "New Espon, Electan State (Loco)",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:01:55.4323502+04:00",
+  "messages": [
+    {
+      "id": "1541956266329509968",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:43:42.055+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Images of New Espon, Electan State (Loco)",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "New Espon, Electan State (Loco).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541956480448725082",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:44:33.105+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "New Espon, Electan State (Loco).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541956476942418020",
+          "url": "New Espon, Electan State (Loco).json_Files\\image-cbd9a5946e96ed7f.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 2002571
+        },
+        {
+          "id": "1541956477416112138",
+          "url": "New Espon, Electan State (Loco).json_Files\\image-3639a0163d55a87d.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 14969
+        },
+        {
+          "id": "1541956477881810994",
+          "url": "New Espon, Electan State (Loco).json_Files\\image-e8f0f14e76578ea6.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 2049855
+        },
+        {
+          "id": "1541956479005757470",
+          "url": "New Espon, Electan State (Loco).json_Files\\image-161b81dcb418c3c4.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1447862
+        },
+        {
+          "id": "1541956479567925309",
+          "url": "New Espon, Electan State (Loco).json_Files\\image-c305028d14472aa8.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 982105
+        },
+        {
+          "id": "1541956480071245966",
+          "url": "New Espon, Electan State (Loco).json_Files\\image-356263ae0e1b87bc.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1304179
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541958515185418261",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:52:38.224+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "City Plan",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "New Espon, Electan State (Loco).json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541958514514071572",
+          "url": "New Espon, Electan State (Loco).json_Files\\image-97ed1dbe1ed9130d.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 323960
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

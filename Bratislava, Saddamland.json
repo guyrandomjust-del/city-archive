@@ -1,0 +1,347 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Bratislava, Saddamland.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1541874805039435786",
+    "type": "GuildPublicThread",
+    "categoryId": "1541872873075908638",
+    "category": "city-archive",
+    "name": "Bratislava, Saddamland",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:06:14.5913415+04:00",
+  "messages": [
+    {
+      "id": "1541874805039435786",
+      "type": "Default",
+      "timestamp": "2026-08-25T22:20:00.17+04:00",
+      "timestampEdited": "2026-08-25T22:43:08.847+04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Images from Bratislava, Saddamland",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Bratislava, Saddamland.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541874843367116950",
+      "type": "ChannelNameChange",
+      "timestamp": "2026-08-25T22:20:09.308+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name: Salah’s Old Private Server City, Saddamland",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Bratislava, Saddamland.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541874917652434944",
+      "type": "Default",
+      "timestamp": "2026-08-25T22:20:27.019+04:00",
+      "timestampEdited": "2026-08-25T22:26:11.675+04:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "28th February, 2025",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Bratislava, Saddamland.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541874915844685904",
+          "url": "Bratislava, Saddamland.json_Files\\Roblox_28.02.2025_17_38_45-0dc7f5128c0657ae.png",
+          "fileName": "Roblox_28.02.2025_17_38_45.png",
+          "fileSizeBytes": 2707323
+        },
+        {
+          "id": "1541874916893130772",
+          "url": "Bratislava, Saddamland.json_Files\\Roblox_28.02.2025_17_38_38-8e0af8735f2b6c65.png",
+          "fileName": "Roblox_28.02.2025_17_38_38.png",
+          "fileSizeBytes": 1518288
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541880628897906748",
+      "type": "ChannelNameChange",
+      "timestamp": "2026-08-25T22:43:08.686+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name: Bratislava, Saddamland",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Bratislava, Saddamland.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541880870837944442",
+      "type": "Default",
+      "timestamp": "2026-08-25T22:44:06.369+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "25th August, 2026",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Bratislava, Saddamland.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541880867733901322",
+          "url": "Bratislava, Saddamland.json_Files\\image-888bcef33fda5926.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 2340099
+        },
+        {
+          "id": "1541880868514177125",
+          "url": "Bratislava, Saddamland.json_Files\\RobloxScreenShot20260825_203821346-1191a4b705c464d8.png",
+          "fileName": "RobloxScreenShot20260825_203821346.png",
+          "fileSizeBytes": 4738899
+        },
+        {
+          "id": "1541880869147381770",
+          "url": "Bratislava, Saddamland.json_Files\\RobloxScreenShot20260825_203836213-f1f6cd84450e473b.png",
+          "fileName": "RobloxScreenShot20260825_203836213.png",
+          "fileSizeBytes": 4296993
+        },
+        {
+          "id": "1541880869894094908",
+          "url": "Bratislava, Saddamland.json_Files\\RobloxScreenShot20260825_203855745-c81528c6dca98c31.png",
+          "fileName": "RobloxScreenShot20260825_203855745.png",
+          "fileSizeBytes": 4564169
+        },
+        {
+          "id": "1541880870544351292",
+          "url": "Bratislava, Saddamland.json_Files\\RobloxScreenShot20260825_204007560-a6c4cb4add23bb24.png",
+          "fileName": "RobloxScreenShot20260825_204007560.png",
+          "fileSizeBytes": 4949706
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}

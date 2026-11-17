@@ -1,0 +1,178 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Possibly Astaria, Astaria.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1541998123386273822",
+    "type": "GuildPublicThread",
+    "categoryId": "1541872873075908638",
+    "category": "city-archive",
+    "name": "Possibly Astaria, Astaria",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:00:24.0591154+04:00",
+  "messages": [
+    {
+      "id": "1541998123386273822",
+      "type": "Default",
+      "timestamp": "2026-08-26T06:30:01.555+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Images of a city that is probably named Astaria, Astaria",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Possibly Astaria, Astaria.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541998216080269524",
+      "type": "Default",
+      "timestamp": "2026-08-26T06:30:23.655+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Possibly Astaria, Astaria.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541998212888662036",
+          "url": "Possibly Astaria, Astaria.json_Files\\image-20f492fc1c22e87d.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1179980
+        },
+        {
+          "id": "1541998213316223147",
+          "url": "Possibly Astaria, Astaria.json_Files\\Screenshot_2025-06-16_194705-c0aa7e073bf822e5.png",
+          "fileName": "Screenshot_2025-06-16_194705.png",
+          "fileSizeBytes": 680619
+        },
+        {
+          "id": "1541998213744296058",
+          "url": "Possibly Astaria, Astaria.json_Files\\Screenshot_2025-06-16_225403-b9b9270fb1de3f3a.png",
+          "fileName": "Screenshot_2025-06-16_225403.png",
+          "fileSizeBytes": 345556
+        },
+        {
+          "id": "1541998214318792804",
+          "url": "Possibly Astaria, Astaria.json_Files\\Screenshot_2025-06-16_195052-9ea31b8db922e001.png",
+          "fileName": "Screenshot_2025-06-16_195052.png",
+          "fileSizeBytes": 1772345
+        },
+        {
+          "id": "1541998214780035163",
+          "url": "Possibly Astaria, Astaria.json_Files\\Screenshot_2025-06-16_194831-d7ddc77872f137e3.png",
+          "fileName": "Screenshot_2025-06-16_194831.png",
+          "fileSizeBytes": 449938
+        },
+        {
+          "id": "1541998215128416356",
+          "url": "Possibly Astaria, Astaria.json_Files\\Screenshot_2025-06-16_194746-36f55217b6659b59.png",
+          "fileName": "Screenshot_2025-06-16_194746.png",
+          "fileSizeBytes": 249946
+        },
+        {
+          "id": "1541998215724015706",
+          "url": "Possibly Astaria, Astaria.json_Files\\Screenshot_2025-06-16_194728-64b0ac1e69b1993d.png",
+          "fileName": "Screenshot_2025-06-16_194728.png",
+          "fileSizeBytes": 816030
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,463 @@
+{
+  "guild": {
+    "id": "1308065765060116601",
+    "name": "University of Talonà",
+    "iconUrl": "Tillville.json_Files\\696dd6a7e1d50c87bd951ee6b10a7719-11f305c1e04a58f4.png"
+  },
+  "channel": {
+    "id": "1541886161914695842",
+    "type": "GuildPublicThread",
+    "categoryId": "1541872873075908638",
+    "category": "city-archive",
+    "name": "Tillville",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-16T11:02:56.0560245+04:00",
+  "messages": [
+    {
+      "id": "1541886161914695842",
+      "type": "Default",
+      "timestamp": "2026-08-25T23:05:07.86+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Images from Tillville",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Tillville.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541886267736727622",
+      "type": "Default",
+      "timestamp": "2026-08-25T23:05:33.09+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "30th March, 2025",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Tillville.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541886267334066316",
+          "url": "Tillville.json_Files\\TillVille_Drift_02-07fe0d3900feabe9.mov",
+          "fileName": "TillVille_Drift_02.mov",
+          "fileSizeBytes": 1780387
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541954530873319434",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:36:48.29+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Tillville.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541954520546934934",
+          "url": "Tillville.json_Files\\Screenshot_2024-11-05_115944-bb6a1f98e4116d42.png",
+          "fileName": "Screenshot_2024-11-05_115944.png",
+          "fileSizeBytes": 1038625
+        },
+        {
+          "id": "1541954521163370536",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-27_223037-c6d5632aa40aa8b1.png",
+          "fileName": "Screenshot_2024-08-27_223037.png",
+          "fileSizeBytes": 2048857
+        },
+        {
+          "id": "1541954521641787522",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-25_010722-7ee018bda001801e.png",
+          "fileName": "Screenshot_2024-08-25_010722.png",
+          "fileSizeBytes": 1891984
+        },
+        {
+          "id": "1541954522702807250",
+          "url": "Tillville.json_Files\\Screenshot_2024-11-08_110035-f2875e9df443c928.png",
+          "fileName": "Screenshot_2024-11-08_110035.png",
+          "fileSizeBytes": 9981518
+        },
+        {
+          "id": "1541954523231158323",
+          "url": "Tillville.json_Files\\Screenshot_2024-11-08_110206-1189550b2b16b445.png",
+          "fileName": "Screenshot_2024-11-08_110206.png",
+          "fileSizeBytes": 1505285
+        },
+        {
+          "id": "1541954524334399508",
+          "url": "Tillville.json_Files\\Screenshot_2024-11-08_110226-8dbe1e46e89b58af.png",
+          "fileName": "Screenshot_2024-11-08_110226.png",
+          "fileSizeBytes": 9551593
+        },
+        {
+          "id": "1541954525445755041",
+          "url": "Tillville.json_Files\\Screenshot_2024-11-08_110116-9d32b395b590ebd7.png",
+          "fileName": "Screenshot_2024-11-08_110116.png",
+          "fileSizeBytes": 10546482
+        },
+        {
+          "id": "1541954526268100648",
+          "url": "Tillville.json_Files\\Screenshot_2024-11-11_230426-d1aa47dd9082eed8.png",
+          "fileName": "Screenshot_2024-11-11_230426.png",
+          "fileSizeBytes": 1074935
+        },
+        {
+          "id": "1541954529812152511",
+          "url": "Tillville.json_Files\\Screenshot_2024-11-08_110143-8f4837c70639468f.png",
+          "fileName": "Screenshot_2024-11-08_110143.png",
+          "fileSizeBytes": 10351845
+        },
+        {
+          "id": "1541954530470531082",
+          "url": "Tillville.json_Files\\image-736e1cc92d454e44.jpg",
+          "fileName": "image.jpg",
+          "fileSizeBytes": 105115
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541954786385985556",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:37:49.209+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Tillville.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541954781839622144",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-12_203935-211e4a08336d8ca5.png",
+          "fileName": "Screenshot_2024-08-12_203935.png",
+          "fileSizeBytes": 2974250
+        },
+        {
+          "id": "1541954782334292039",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-12_203950-cd358f693b2e4aa8.png",
+          "fileName": "Screenshot_2024-08-12_203950.png",
+          "fileSizeBytes": 2818727
+        },
+        {
+          "id": "1541954782787280936",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-12_203922-30ccd633ace94467.png",
+          "fileName": "Screenshot_2024-08-12_203922.png",
+          "fileSizeBytes": 3168578
+        },
+        {
+          "id": "1541954783316021368",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-11_160115-f009d9851c282775.png",
+          "fileName": "Screenshot_2024-08-11_160115.png",
+          "fileSizeBytes": 1223956
+        },
+        {
+          "id": "1541954783710023680",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-14_141029-45d43758b6d6f118.png",
+          "fileName": "Screenshot_2024-08-14_141029.png",
+          "fileSizeBytes": 919208
+        },
+        {
+          "id": "1541954784096034856",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-12_203858-4b8eba447ace4c42.png",
+          "fileName": "Screenshot_2024-08-12_203858.png",
+          "fileSizeBytes": 420379
+        },
+        {
+          "id": "1541954784536297512",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-12_204003-e9bc3e8bace079d1.png",
+          "fileName": "Screenshot_2024-08-12_204003.png",
+          "fileSizeBytes": 2390392
+        },
+        {
+          "id": "1541954784951672922",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-14_225139-1571b1433dab4dc4.png",
+          "fileName": "Screenshot_2024-08-14_225139.png",
+          "fileSizeBytes": 1496227
+        },
+        {
+          "id": "1541954785635336303",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-14_225742-592a4601a9aa5c59.png",
+          "fileName": "Screenshot_2024-08-14_225742.png",
+          "fileSizeBytes": 900800
+        },
+        {
+          "id": "1541954786021351535",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-14_141047-13a75527e3c490a4.png",
+          "fileName": "Screenshot_2024-08-14_141047.png",
+          "fileSizeBytes": 391049
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1541954956192649318",
+      "type": "Default",
+      "timestamp": "2026-08-26T03:38:29.694+04:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1243582620487520270",
+        "name": "starion1920",
+        "discriminator": "0000",
+        "nickname": "Count Napoleon",
+        "color": "#120F00",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1308066868787024014",
+            "name": "Headmaster",
+            "color": "#120F00",
+            "position": 32
+          },
+          {
+            "id": "1308067260807778335",
+            "name": "Leaders",
+            "color": "#206694",
+            "position": 19
+          },
+          {
+            "id": "1308074141177479188",
+            "name": "Verified",
+            "color": "#11806A",
+            "position": 9
+          },
+          {
+            "id": "1541753016602984559",
+            "name": "Faction ping",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1541753052644769892",
+            "name": "Community ping",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "Tillville.json_Files\\7708736fad8986313694493ab9f96061-903112d35a510a43.png"
+      },
+      "attachments": [
+        {
+          "id": "1541954953675939870",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-11_141858-93e25be16df4995d.png",
+          "fileName": "Screenshot_2024-08-11_141858.png",
+          "fileSizeBytes": 1400179
+        },
+        {
+          "id": "1541954954141376582",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-13_005804-2d289b985c205613.png",
+          "fileName": "Screenshot_2024-08-13_005804.png",
+          "fileSizeBytes": 1231737
+        },
+        {
+          "id": "1541954954598813747",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-11_231858-58f66311c31a1503.png",
+          "fileName": "Screenshot_2024-08-11_231858.png",
+          "fileSizeBytes": 1649952
+        },
+        {
+          "id": "1541954955315777546",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-13_202730-a110a3c66c5c4b74.png",
+          "fileName": "Screenshot_2024-08-13_202730.png",
+          "fileSizeBytes": 1325772
+        },
+        {
+          "id": "1541954955827486810",
+          "url": "Tillville.json_Files\\Screenshot_2024-08-13_220600-3398b2515a0456d5.png",
+          "fileName": "Screenshot_2024-08-13_220600.png",
+          "fileSizeBytes": 1253485
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}
